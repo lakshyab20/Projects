@@ -9,4 +9,4 @@ source and classify it based on the activity thus performed.
 
 <h3>Architecture Design</h3>
 
-<img src="arch.png">
+<img src="img/arch.png">
