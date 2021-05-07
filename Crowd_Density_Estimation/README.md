@@ -38,7 +38,7 @@ segmentation result.
 
 <h3>All files are available on drive :</h3>
 
-<h4>Link: <a href="https://drive.google.com/drive/folders/1XgG1gcvVOAHI_8yU9Qil8FMk87El8HeK?usp=sharing">Human Activity Recognition</a> </h4>
+<h4>Link: <a href="https://drive.google.com/drive/folders/1XgG1gcvVOAHI_8yU9Qil8FMk87El8HeK?usp=sharing">Crowd Density Estimation</a> </h4>
 
 
 
@@ -46,6 +46,6 @@ segmentation result.
 
 Estimated Count :- 
 676.80383
-<img src="download.png">
+<img src="img/download.png">
 Original Count:- 664
-<img src="download (1).png">
+<img src="img/download (1).png">
