@@ -44,8 +44,10 @@ segmentation result.
 
 <h3>Output: </h3>
 
-Estimated Count :- 
-676.80383
+Estimated Count :- 676.80383 
+
 <img src="img/download.png">
+
+<br>
 Original Count:- 664
 <img src="img/download (1).png">
