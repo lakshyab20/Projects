@@ -27,3 +27,19 @@ source and classify it based on the activity thus performed.
 
 <h3>Setup: </h3>
 
+<ul>
+	<li>Firstly, clone this repository into your system or open it in google colab</li>
+	<li>After cloning, install the requirements</li>
+	<li>After installing all the requirements, run Human_Activity_Recognition.ipynb</li>
+	<li>A window will popup and will show the test video with predicted output on it.
+	</li>
+</ul>
+
+<h3>All files are available on drive :</h3>
+
+<h4>Link: <a href="https://drive.google.com/drive/folders/1XgG1gcvVOAHI_8yU9Qil8FMk87El8HeK?usp=sharing">Human Activity Recognition</a> </h4>
+
+
+
+<h3>Output: </h3>
+<img src="img/1.png">
